@@ -50,7 +50,7 @@ To use the report on your local system:
 
 ## Screenshots
 
-*([IFAS-LIVE-USERS-DASHBOARD](https://github.com/iampraveen96/IFAS-LIVE-USERS-DASHBOARD/blob/main/Users%20Data%20Analysis.png))*
+![DASHBOARD PREVIEW](https://github.com/iampraveen96/IFAS-LIVE-USERS-DASHBOARD/blob/main/Users%20Data%20Analysis.png)
 
 ---
 
