@@ -50,7 +50,7 @@ To use the report on your local system:
 
 ## Screenshots
 
-*(Add screenshots here if available — to enhance visual understanding. Example: registration trends, map view, demographic breakdown)*
+*([IFAS-LIVE-USERS-DASHBOARD](https://github.com/iampraveen96/IFAS-LIVE-USERS-DASHBOARD/blob/main/Users%20Data%20Analysis.png))*
 
 ---
 
